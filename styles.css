@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
 body {
     background-color: #cafffb;
     width: 800px;
     margin: 0 auto;
+    font-family: "Open Sans";
 }
 
 .boxik1 {
