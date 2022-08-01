@@ -1,3 +1,40 @@
 body {
-    background-color: #fbdfee;
+    background-color: #cafffb;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.boxik1 {
+    padding: 10px;
+    border-width: px;
+    border-style: ridge;
+    background-color: aquamarine;
+    margin: 10px;
+}
+ 
+h2 {
+    clear: both;
+    margin-top: 50px;
+}
+
+.tlacitko1 {
+    padding: 10px;
+}
+
+.moje-foto {
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+}
+
+.nadpis-elementu {
+    clear: both;
+}
+
+.formular {
+    margin: 10px;
+}
+
+#emailovy-box {
+    width: 14em;
 }
